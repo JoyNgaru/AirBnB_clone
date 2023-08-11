@@ -1,6 +1,6 @@
 # AirBnB Clone Project README
 
-Welcome to the AirBnB Clone project! This README provides an overview of the project and answers some common questions.
+Welcome to the AirBnB Clone project! This README provides an overview of our project.
 
 ## What is the AirBnB Clone Project?
 
