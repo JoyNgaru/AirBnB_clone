@@ -90,3 +90,4 @@ class BaseModel:
         """Delete the current instance from the storage
         (models.storage) by calling the method delete"""
         models.storage.delete(self)
+
